@@ -1,0 +1,26 @@
+{
+  "name": "team-project-excercise-",
+  "version": "1.0.0",
+  "description": "Please read these instructions to runt this project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisawesomeusername/team-project-excercise-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisawesomeusername/team-project-excercise-/issues"
+  },
+  "homepage": "https://github.com/chrisawesomeusername/team-project-excercise-#readme",
+  "devDependencies": {
+    "bootstrap": "^4.4.1"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.0.6",
+    "jquery": "^3.4.1"
+  }
+}
