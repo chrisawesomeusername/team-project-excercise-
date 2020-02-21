@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/chrisawesomeusername/team-project-excercise-#readme",
   "devDependencies": {
-    "bootstrap": "^4.4.1"
+    "bootstrap": "^4.4.1",
+    "grunt": "^1.0.4"
   },
   "dependencies": {
     "@popperjs/core": "^2.0.6",
